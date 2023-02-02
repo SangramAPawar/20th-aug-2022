@@ -20,7 +20,9 @@ public class Base
 				"C:\\Users\\hp\\Desktop\\crdriver\\chromedriver.exe");
 		
 		driver= new ChromeDriver();
+		
 		driver.manage().window().maximize();
+		
 		//driver.get("https://neostox.com/");
 		
 		driver.get(Utility.readDataFromPropertyFile("urlqa"));
