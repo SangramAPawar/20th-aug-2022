@@ -32,6 +32,7 @@ public class Base
 		
 		//comment 1
 		
+		//comment 2
 	}
 
 }
