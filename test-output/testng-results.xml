@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[reading data from excel row is ]]>
+    </line>
+    <line>
+      <![CDATA[data ishttps://neostox.com/]]>
+    </line>
+    <line>
+      <![CDATA[waiting for1000ms]]>
+    </line>
+    <line>
+      <![CDATA[Launching browser]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on signin button]]>
+    </line>
+    <line>
+      <![CDATA[waiting for1000ms]]>
+    </line>
+    <line>
+      <![CDATA[reading data from excel row is ]]>
+    </line>
+    <line>
+      <![CDATA[data is7721819403]]>
+    </line>
+    <line>
+      <![CDATA[entering mobile number]]>
+    </line>
+    <line>
+      <![CDATA[click on sign in]]>
+    </line>
+    <line>
+      <![CDATA[waiting for1000ms]]>
+    </line>
+    <line>
+      <![CDATA[reading data from excel row is ]]>
+    </line>
+    <line>
+      <![CDATA[data is2023]]>
+    </line>
+    <line>
+      <![CDATA[entering password]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on submit button]]>
+    </line>
+    <line>
+      <![CDATA[waiting for1000ms]]>
+    </line>
+    <line>
+      <![CDATA[scrolling into view toOK]]>
+    </line>
+    <line>
+      <![CDATA[clickingon popUp Ok button]]>
+    </line>
+    <line>
+      <![CDATA[waiting for1000ms]]>
+    </line>
+    <line>
+      <![CDATA[getting account balence]]>
+    </line>
+    <line>
+      <![CDATA[account balence isRs.5,00,000.00]]>
+    </line>
+    <line>
+      <![CDATA[reading data from excel row is ]]>
+    </line>
+    <line>
+      <![CDATA[data is5647]]>
+    </line>
+    <line>
+      <![CDATA[taking screenshot]]>
+    </line>
+    <line>
+      <![CDATA[screenshot taken and saved atC:\Users\hp\Desktop\crdriver\screenshots\5647cN.png]]>
+    </line>
+    <line>
+      <![CDATA[TC validateAccountBalencepassed]]>
+    </line>
+    <line>
+      <![CDATA[logging out from neoStox]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on signin button]]>
+    </line>
+    <line>
+      <![CDATA[waiting for1000ms]]>
+    </line>
+    <line>
+      <![CDATA[reading data from excel row is ]]>
+    </line>
+    <line>
+      <![CDATA[data is7721819403]]>
+    </line>
+    <line>
+      <![CDATA[entering mobile number]]>
+    </line>
+    <line>
+      <![CDATA[click on sign in]]>
+    </line>
+    <line>
+      <![CDATA[waiting for1000ms]]>
+    </line>
+    <line>
+      <![CDATA[reading data from excel row is ]]>
+    </line>
+    <line>
+      <![CDATA[data is2023]]>
+    </line>
+    <line>
+      <![CDATA[entering password]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on submit button]]>
+    </line>
+    <line>
+      <![CDATA[waiting for1000ms]]>
+    </line>
+    <line>
+      <![CDATA[there is no popUp]]>
+    </line>
+    <line>
+      <![CDATA[waiting for1000ms]]>
+    </line>
+    <line>
+      <![CDATA[getting actual user name]]>
+    </line>
+    <line>
+      <![CDATA[ actual user name is-->Hi sangram pawar]]>
+    </line>
+    <line>
+      <![CDATA[reading data from excel row is ]]>
+    </line>
+    <line>
+      <![CDATA[data isHi sangram pawar]]>
+    </line>
+    <line>
+      <![CDATA[reading data from excel row is ]]>
+    </line>
+    <line>
+      <![CDATA[data is1234]]>
+    </line>
+    <line>
+      <![CDATA[taking screenshot]]>
+    </line>
+    <line>
+      <![CDATA[screenshot taken and saved atC:\Users\hp\Desktop\crdriver\screenshots\12344I.png]]>
+    </line>
+    <line>
+      <![CDATA[TC validateUserNamepassed]]>
+    </line>
+    <line>
+      <![CDATA[logging out from neoStox]]>
+    </line>
+    <line>
+      <![CDATA[closing the application]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-01-17T21:27:41 IST" name="Default suite" finished-at="2023-01-17T21:31:09 IST" duration-ms="207837">
+    <groups>
+    </groups>
+    <test started-at="2023-01-17T21:27:41 IST" name="Default test" finished-at="2023-01-17T21:31:09 IST" duration-ms="207837">
+      <class name="NeostoxTestClasses.ValidateNeostoxUsername">
+        <test-method is-config="true" signature="LaunchNeoStoxApp()[pri:0, instance:NeostoxTestClasses.ValidateNeostoxUsername@306e95ec]" started-at="2023-01-17T21:27:42 IST" name="LaunchNeoStoxApp" finished-at="2023-01-17T21:28:26 IST" duration-ms="44994" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[reading data from excel row is ]]>
+            </line>
+            <line>
+              <![CDATA[data ishttps://neostox.com/]]>
+            </line>
+            <line>
+              <![CDATA[waiting for1000ms]]>
+            </line>
+            <line>
+              <![CDATA[Launching browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LaunchNeoStoxApp -->
+        <test-method is-config="true" signature="logInToNeoStoxreClass()[pri:0, instance:NeostoxTestClasses.ValidateNeostoxUsername@306e95ec]" started-at="2023-01-17T21:28:27 IST" name="logInToNeoStoxreClass" finished-at="2023-01-17T21:29:41 IST" duration-ms="74741" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicking on signin button]]>
+            </line>
+            <line>
+              <![CDATA[waiting for1000ms]]>
+            </line>
+            <line>
+              <![CDATA[reading data from excel row is ]]>
+            </line>
+            <line>
+              <![CDATA[data is7721819403]]>
+            </line>
+            <line>
+              <![CDATA[entering mobile number]]>
+            </line>
+            <line>
+              <![CDATA[click on sign in]]>
+            </line>
+            <line>
+              <![CDATA[waiting for1000ms]]>
+            </line>
+            <line>
+              <![CDATA[reading data from excel row is ]]>
+            </line>
+            <line>
+              <![CDATA[data is2023]]>
+            </line>
+            <line>
+              <![CDATA[entering password]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on submit button]]>
+            </line>
+            <line>
+              <![CDATA[waiting for1000ms]]>
+            </line>
+            <line>
+              <![CDATA[scrolling into view toOK]]>
+            </line>
+            <line>
+              <![CDATA[clickingon popUp Ok button]]>
+            </line>
+            <line>
+              <![CDATA[waiting for1000ms]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logInToNeoStoxreClass -->
+        <test-method signature="validateAccountBalence()[pri:0, instance:NeostoxTestClasses.ValidateNeostoxUsername@306e95ec]" started-at="2023-01-17T21:29:41 IST" name="validateAccountBalence" finished-at="2023-01-17T21:29:47 IST" duration-ms="5465" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[getting account balence]]>
+            </line>
+            <line>
+              <![CDATA[account balence isRs.5,00,000.00]]>
+            </line>
+            <line>
+              <![CDATA[reading data from excel row is ]]>
+            </line>
+            <line>
+              <![CDATA[data is5647]]>
+            </line>
+            <line>
+              <![CDATA[taking screenshot]]>
+            </line>
+            <line>
+              <![CDATA[screenshot taken and saved atC:\Users\hp\Desktop\crdriver\screenshots\5647cN.png]]>
+            </line>
+            <line>
+              <![CDATA[TC validateAccountBalencepassed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateAccountBalence -->
+        <test-method is-config="true" signature="logOutFromNeoStox()[pri:0, instance:NeostoxTestClasses.ValidateNeostoxUsername@306e95ec]" started-at="2023-01-17T21:29:47 IST" name="logOutFromNeoStox" finished-at="2023-01-17T21:29:59 IST" duration-ms="11734" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[logging out from neoStox]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logOutFromNeoStox -->
+        <test-method is-config="true" signature="logInToNeoStoxreClass()[pri:0, instance:NeostoxTestClasses.ValidateNeostoxUsername@306e95ec]" started-at="2023-01-17T21:29:59 IST" name="logInToNeoStoxreClass" finished-at="2023-01-17T21:30:32 IST" duration-ms="33077" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicking on signin button]]>
+            </line>
+            <line>
+              <![CDATA[waiting for1000ms]]>
+            </line>
+            <line>
+              <![CDATA[reading data from excel row is ]]>
+            </line>
+            <line>
+              <![CDATA[data is7721819403]]>
+            </line>
+            <line>
+              <![CDATA[entering mobile number]]>
+            </line>
+            <line>
+              <![CDATA[click on sign in]]>
+            </line>
+            <line>
+              <![CDATA[waiting for1000ms]]>
+            </line>
+            <line>
+              <![CDATA[reading data from excel row is ]]>
+            </line>
+            <line>
+              <![CDATA[data is2023]]>
+            </line>
+            <line>
+              <![CDATA[entering password]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on submit button]]>
+            </line>
+            <line>
+              <![CDATA[waiting for1000ms]]>
+            </line>
+            <line>
+              <![CDATA[there is no popUp]]>
+            </line>
+            <line>
+              <![CDATA[waiting for1000ms]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logInToNeoStoxreClass -->
+        <test-method signature="validateUserName()[pri:0, instance:NeostoxTestClasses.ValidateNeostoxUsername@306e95ec]" started-at="2023-01-17T21:30:32 IST" name="validateUserName" finished-at="2023-01-17T21:30:32 IST" duration-ms="370" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[getting actual user name]]>
+            </line>
+            <line>
+              <![CDATA[ actual user name is-->Hi sangram pawar]]>
+            </line>
+            <line>
+              <![CDATA[reading data from excel row is ]]>
+            </line>
+            <line>
+              <![CDATA[data isHi sangram pawar]]>
+            </line>
+            <line>
+              <![CDATA[reading data from excel row is ]]>
+            </line>
+            <line>
+              <![CDATA[data is1234]]>
+            </line>
+            <line>
+              <![CDATA[taking screenshot]]>
+            </line>
+            <line>
+              <![CDATA[screenshot taken and saved atC:\Users\hp\Desktop\crdriver\screenshots\12344I.png]]>
+            </line>
+            <line>
+              <![CDATA[TC validateUserNamepassed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateUserName -->
+        <test-method is-config="true" signature="logOutFromNeoStox()[pri:0, instance:NeostoxTestClasses.ValidateNeostoxUsername@306e95ec]" started-at="2023-01-17T21:30:32 IST" name="logOutFromNeoStox" finished-at="2023-01-17T21:30:40 IST" duration-ms="7274" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[logging out from neoStox]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logOutFromNeoStox -->
+        <test-method is-config="true" signature="closeNeoStoxApp()[pri:0, instance:NeostoxTestClasses.ValidateNeostoxUsername@306e95ec]" started-at="2023-01-17T21:30:40 IST" name="closeNeoStoxApp" finished-at="2023-01-17T21:31:09 IST" duration-ms="29682" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[closing the application]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeNeoStoxApp -->
+      </class> <!-- NeostoxTestClasses.ValidateNeostoxUsername -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
