@@ -28,6 +28,8 @@ public class Base
 		driver.get(Utility.readDataFromPropertyFile("urlqa"));
 		
 		Utility.implicitWait(1000,driver);
+		
+		
 		Reporter.log("Launching browser",true);
 		
 		//comment 1
