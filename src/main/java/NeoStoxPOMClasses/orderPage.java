@@ -22,4 +22,15 @@ public class orderPage
 	   SignInButton.click();
 	   Reporter.log("Clicking on signin button", true);
    }
+   
+   public void ClickOnSignin(String a,int b)
+   {
+	   SignInButton.click();
+	   Reporter.log("Clicking on signin button", true);
+   }
+   public void ClickOnSignin(String a)
+   {
+	   SignInButton.click();
+	   Reporter.log("Clicking on signin button", true);
+   }
 }
